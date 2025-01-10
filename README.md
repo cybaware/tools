@@ -4,5 +4,6 @@
 **Virustotal**\
 https://www.virustotal.com/
 ## DNS tools
-
+**MXtoolbox**\
+https://mxtoolbox.com/DNSLookup.aspx
 ## IP tools
